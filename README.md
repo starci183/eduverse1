@@ -92,4 +92,12 @@ We welcome contributions from the community! To get involved, please:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a de
+3. Submit a pull request with a detailed description of your changes.
+
+## License
+
+**EduVerse** is open-source software licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact
+
+For support or inquiries, please reach out to us at [support@eduverse.com].
