@@ -1,0 +1,114 @@
+[
+    {
+      "question_id": 1,
+      "question": "What is the core mission of Open Campus?",
+      "options": [
+        "To create a decentralized social media platform",
+        "To transform the education system into one that is fairer and more open",
+        "To build a global e-commerce platform",
+        "To provide free online courses for all students"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 2,
+      "question": "What technology does Open Campus leverage to support education?",
+      "options": [
+        "Artificial Intelligence",
+        "Blockchain Technology",
+        "Virtual Reality",
+        "Augmented Reality"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the Open Campus ID?",
+      "options": [
+        "A digital identity card for students",
+        "A decentralized identifier for educational credentials",
+        "A blockchain-based social media platform",
+        "An online course registration system"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the significance of microcredentials in the Open Campus ecosystem?",
+      "options": [
+        "They are the only form of educational qualification recognized by Open Campus",
+        "They are less valuable than traditional degrees",
+        "They are used for skills-based hiring and are increasingly valued by employers",
+        "They are not part of Open Campus"
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 5,
+      "question": "What role do Publisher NFTs play in Open Campus?",
+      "options": [
+        "They are used for creating virtual classrooms",
+        "They allow educators to monetize their content and gain ownership rights",
+        "They are used to store student data",
+        "They are a form of reward for learners"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the Open Campus Accelerator (OC-X)?",
+      "options": [
+        "A university funding program",
+        "A 6-week community-driven initiative to support education-focused startups",
+        "A research institution in the field of education technology",
+        "An online platform for student collaboration"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the $EDU token represent?",
+      "options": [
+        "A token used to pay for online courses",
+        "A token used for governance and as a native gas token on EDU Chain",
+        "A token used to purchase NFTs",
+        "A token for staking in educational games"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 8,
+      "question": "What is EDU Chain?",
+      "options": [
+        "A blockchain designed for social media",
+        "A decentralized blockchain for educational applications",
+        "A supply chain management platform",
+        "A financial services platform"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the main benefit of using Decentralized Identifiers (DIDs) in education?",
+      "options": [
+        "They provide access to free online courses",
+        "They help store student grades securely on the blockchain",
+        "They allow learners to control their educational credentials and reputation",
+        "They allow institutions to issue degrees without verifying students"
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the Open Campus DAO?",
+      "options": [
+        "A decentralized organization that governs the platform and advances its vision",
+        "A government body overseeing educational regulations",
+        "A forum for students to discuss their progress",
+        "A private company managing Open Campus operations"
+      ],
+      "answer": "0"
+    }
+   ]
+   
+   
